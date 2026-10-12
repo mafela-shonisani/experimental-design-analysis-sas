@@ -87,4 +87,3 @@ experimental-design-analysis-sas/
 - **Institution:** University of Limpopo
 - **Area of interest:** Statistical Analysis, Data Analytics, and Data Science
 
-Recommendation: Since you are using this project as part of your portfolio, keep the README aligned with your actual progress. If some analyses, programs, or diagnostic plots are still incomplete, describe them as work in progress rather than implying that every component has been finished.
