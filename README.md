@@ -1,5 +1,3 @@
-Here is a polished, professional version of your project README that you can use on GitHub. It highlights your SAS programming, statistical analysis, and experimental design skills while keeping the descriptions clear and appropriate for an academic portfolio.
-
 # Experimental Design and Statistical Analysis Using SAS
 
 ## Project Overview
