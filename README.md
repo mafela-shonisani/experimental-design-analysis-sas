@@ -79,12 +79,6 @@ experimental-design-analysis-sas/
 └── README.md
 ```
 
-*Note: The repository structure represents the proposed organisation of the project. Include only files and analyses that have actually been completed.*
-
-## Conclusion
-
-This project demonstrates the application of experimental design principles and statistical methods to practical research problems using SAS. By analysing different experimental designs, the project develops skills in model selection, hypothesis testing, treatment comparisons, diagnostic assessment, and statistical interpretation. It also highlights the importance of accounting for experimental variation when drawing conclusions from data.
-
 ## Author
 
 **Shonisani Mafela**
